@@ -1,2 +1,2 @@
 # Color-schemes
-Set of Color-schemes for various applications 
+Set of Color-schemes, themes and icons for various applications
